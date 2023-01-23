@@ -1,4 +1,4 @@
-print("Program to check whether a number is prime or not")
+print("Program to check whether a number is prime or not.")
 
 
 number = int(input("Enter the number: "))
