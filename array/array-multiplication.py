@@ -3,6 +3,7 @@ print("array multiplication divided by n")
 arr = [100, 10, 5, 25, 35, 14]
 
 
+# Approach
 def multiply_array(arr, n):
     multiply = 1
     for i in range(len(arr)):
